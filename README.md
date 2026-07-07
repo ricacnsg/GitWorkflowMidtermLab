@@ -3,7 +3,9 @@
 
 * **Git Commands**
 * **Github**
+* **Repository**
 * **Collaboration**
 * **Branching**
 * **Merging**
 * **Solving Conflicts**
+* **Pull Requests**
