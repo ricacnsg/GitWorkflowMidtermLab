@@ -1,7 +1,7 @@
 # Integrative Programming and Technologies 🙌
 ## Midterm Lab Exam
 
-* **Git**
+* **Git Commands**
 * **Github**
 * **Collaboration**
 * **Branching**
