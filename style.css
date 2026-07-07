@@ -12,3 +12,49 @@ body{
     border-width: 5;
     border-style:dashed;
 }
+.startBtn{
+    display: block;
+    margin: 0 auto; 
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.navbar {
+            background-color: rgb(51, 40, 28);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 30px;
+        }
+
+        /* Website Brand/Logo Styling */
+        .logo a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        /* List structure layout */
+        .nav-links {
+            list-style: none;
+            display: flex;
+        }
+
+        /* Spacing between text links */
+        .nav-links li {
+            margin-left: 20px;
+        }
+
+        /* Individual text link styling */
+        .nav-links a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+            transition: color 0.3s;
+        }
+
+        /* Interactive hover effect color */
+        .nav-links a:hover {
+            color: #4CAF50;
+        }
